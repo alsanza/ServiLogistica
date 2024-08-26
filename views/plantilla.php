@@ -38,6 +38,8 @@
     <script src="views/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
     <script src="views/plugins/datatables-buttons/js/buttons.print.min.js"></script>
     <script src="views/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
+    <!-- Sweetalertc Plugins -->
+    <script src="views/plugins/sweetalert2/sweetalert2.all.min.js"></script>
 </head>
 <body class="hold-transition sidebar-collapse sidebar-mini">
     
@@ -92,5 +94,6 @@
     ?>
 
  <script src="views/js/main.js"></script>
+ <script src="views/js/usuario.js"></script>
 </body>
 </html>

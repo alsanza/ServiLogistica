@@ -19,9 +19,16 @@ Para separar el contenido del sistema, de cuando el usuario NO esté logueado a 
 de las etiquetas PHP, una estructura condicional (if) y vamos a preguntar si no existe una variable de sesión cualquiera
 entonces el usuario no esta logueado debe loguearse
 
+FUNCIONALIDADES
+Son funciones que realiza el sistema 
+
+CASOS DE USO
+Cada caso de uso comienza con un formulario, que puede ir alojado o  no, en una ventana modal, esta ventana se ejecuta mediante un botón 
+
 FORMULARIO
-En la programación orientada a objetos los formularios no tienen el atributo action, sino que recibe los datos meidante
-el atributo method, y las cajas de texto o input´s deben llevar un atributo de tipo name
+En la programación orientada a objetos los formularios no tienen el atributo action, sino que recibe los datos mediante
+el atributo method, y las cajas de texto o input´s deben llevar un atributo de tipo name que va a identificar a cada input,
+
 
 para intervenir los estilos de la página de login nos vamos al archivo css en la fila 34972
 
