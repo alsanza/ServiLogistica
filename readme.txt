@@ -2,7 +2,7 @@ INDEX
 El index va a requerir 
 PLANTILLA adminLTE
 
-se va a dividir por módulos
+nuestro sistema se va a dividir por módulos
 
 URL´s amigables o lista blanca
 
@@ -33,5 +33,4 @@ el atributo method, y las cajas de texto o input´s deben llevar un atributo de 
 para intervenir los estilos de la página de login nos vamos al archivo css en la fila 34972
 
 TABLAS
-Plugin dataTable
-https://sena4-my.sharepoint.com/:v:/g/personal/lejgonzalezb_sena_edu_co/ERHtSZGieZ1Cve3818CnUy0BNNnT5FjnjOzRFbDjUDHgKA?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view
+Utilizamos el plugin dataTable
